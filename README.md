@@ -4,5 +4,4 @@ Experiments with calling the unofficial Midjourney API from nTop to create custo
 ### Prerequisites
 
 * nTop license, RCB beta access (duh)
-* (ImagineAPI.dev)[https://docs.imagineapi.dev/] demo account
-* 
+* [ImagineAPI.dev](https://docs.imagineapi.dev/) demo account
